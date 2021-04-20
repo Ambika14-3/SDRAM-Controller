@@ -34,7 +34,7 @@ Most extensive part of this project was to design the State Diagram and try to k
 
 # Software Flowchart for the Verilog Code of SDRAM-Controller
 
-After deciding all the State Diagrams, the most challenging part of this project was to come up with Verilog Code and various approaches were encountered of which the below Algorithm plan was finally selected. The Verilog Code developed for this project looks more unusual than the below FlowChart.
+After deciding all the State Diagrams, the most challenging part of this project was to come up with Verilog Code and various approaches were encountered of which the below Algorithm plan was finally selected. The Verilog Code developed for this project looks more unusual than the below FlowChart. Please have a look!
 
 ![CA_SDRAM_Ctrl_Flowchart-1](https://user-images.githubusercontent.com/66430218/115138285-c2218c00-a048-11eb-8917-61ff7ee334dd.jpg)
 
